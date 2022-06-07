@@ -62,6 +62,13 @@
 
 # Contact me
 
-### SNS
-<div>kakao talk - janguk0815</div>
-<div>phone - 010-8717-9852</div>
+<img src="https://img.shields.io/badge/KAKAO-FFCD00?style=for-the-badge&logo=KakaoTalk&logoColor=black"/>
+
+ ```sh
+janguk0815
+```
+
+📞
+ ```sh
+010-8717-9852
+```
