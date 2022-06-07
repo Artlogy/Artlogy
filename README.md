@@ -60,6 +60,8 @@
 - [OVERWATCH](https://breakdance.github.io/breakdance/) - C# | UNITY | 3D
 ### OTHER
 
-# CONTACT
+# Contact me
 
 ### SNS
+kakao talk - janguk0815
+phone - 010-8717-9852
