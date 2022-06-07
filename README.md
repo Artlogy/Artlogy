@@ -54,8 +54,8 @@
 - [KorBit](https://youtu.be/2MIXWtGgD78/) - React | Djnago | Oracle DB
 - [SSG MART](https://breakdance.github.io/breakdance/) - React(TS) | NestJS | Postgres 
 ### GAME
-- [TETRIS](https://breakdance.github.io/breakdance/) - C | CONSOL
-- [OWLBOY](https://breakdance.github.io/breakdance/) - C++ | WINAPI | 2D
+- [TETRIS](https://youtu.be/MSjUIrSQuc8/) - C | CONSOL
+- [OWLBOY](https://youtu.be/dcJZMbE1xGY/) - C++ | WINAPI | 2D
 - [PORTAL](https://breakdance.github.io/breakdance/) - C++ | WINAPI | D3DX9 | 3D
 - [OVERWATCH](https://breakdance.github.io/breakdance/) - C# | UNITY | 3D
 ### OTHER
