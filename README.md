@@ -63,5 +63,5 @@
 # Contact me
 
 ### SNS
-kakao talk - janguk0815
-phone - 010-8717-9852
+<div>kakao talk - janguk0815</div>
+<div>phone - 010-8717-9852</div>
