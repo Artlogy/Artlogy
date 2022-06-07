@@ -50,7 +50,7 @@
 # Portfolio
 
 ### WEB
-- [Atelier](https://breakdance.github.io/breakdance/) - Pure JS(Jquery) | Express | Maria DB
+- [Atelier](https://breakdance.github.io/breakdance/) - JS(Jquery) | Express | Maria DB
 - [KorBit](https://breakdance.github.io/breakdance/) - React | Djnago | Oracle DB
 - [SSG MART](https://breakdance.github.io/breakdance/) - React(TS) | NestJS | Postgres 
 ### GAME
