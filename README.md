@@ -52,7 +52,7 @@
 ### WEB
 - [Atelier](https://youtu.be/oAT4Or5_nkk/) - JS(Jquery) | Express | Maria DB
 - [KorBit](https://youtu.be/2MIXWtGgD78/) - React | Djnago | Oracle DB
-- [MaketKurly MART](https://breakdance.github.io/breakdance/](https://github.com/Artlogy/MarketKulry-serv) - React(TS) | NestJS | Postgres -진행중
+- [MaketKurly MART](https://github.com/Artlogy/MarketKulry-serv) - React(TS) | NestJS | Postgres -진행중
 ### GAME
 - [TETRIS](https://youtu.be/MSjUIrSQuc8/) - C | CONSOL
 - [OWLBOY](https://youtu.be/dcJZMbE1xGY/) - C++ | WINAPI | 2D
